@@ -5,6 +5,8 @@
 
 Next.js blogging template for Netlify is a boilerplate for building blogs with only Netlify stacks.
 
+Jumping into to say this is the start of edits using this for a personal blog.
+
 There are some boilerplate or tutorials for the combination of Next.js and Netlify on GitHub. These resources have documentation and good tutorial to get started Next.js and Netlify quickly, but they are too simple to build blogs with standard features like tagging.
 
 Next.js blogging template for Netlify has already implemented these standard features for building blogs with only using Next.js and Netlify stacks.
